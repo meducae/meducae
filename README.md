@@ -1,93 +1,90 @@
-<!-- ===================== -->
-<!--  ANIMATED BANNER     -->
-<!-- ===================== -->
+<!-- ========================= -->
+<!--  PROFESSIONAL ANIMATED   -->
+<!--  GITHUB PROFILE README   -->
+<!-- ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=220&section=header&text=Soatmurod%20Xurramov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<!-- TOP ANIMATED BANNER -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=180&section=header&animation=fadeIn"
+/>
 
-<!-- ===================== -->
-<!--  TYPING ANIMATION    -->
-<!-- ===================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=4F46E5&center=true&vCenter=true&width=600&lines=Salom!+Men+Soatmurodman;Flutter+Mobile+Developer;AI+asosida+ilovalar+yarataman;Fintech+va+Startup+loyihalar;O%27zbekiston" />
-</p>
-
----
-
-## 👋 Men haqimda
-
-- 📱 **Flutter** yordamida Android & iOS ilovalar yarataman  
-- 🤖 **AI / ChatGPT** asosida smart yechimlar ishlab chiqaman  
-- 💳 **Fintech**, **EdTech** va **Startup** loyihalar ustida ishlayman  
-- 🎯 Maqsadim: real muammolarga texnologiya orqali yechim topish  
-- 🌱 Hozirda: AI + IELTS + mobil arxitektura
-
----
-
-## 🛠 Texnologiyalar (Tech Stack)
-
-<p>
-  💙 Flutter & Dart <br/>
-  🟢 Android (Kotlin) <br/>
-  🐘 PHP & MySQL <br/>
-  ⚙️ REST API <br/>
-  🤖 OpenAI API <br/>
-  🎨 UI/UX (Fintech style)
-</p>
-
----
-
-## 🚀 Loyihalar
-
-- 🔹 **UnEdu** – AI yordamida xorijiy universitet topish platformasi  
-- 🔹 **SmartBank** – Fintech mobil ilova  
-- 🔹 **Telegram Bot** – PHP + MySQL asosida avtomatlashtirilgan bot  
-- 🔹 **IELTS Mock Test** – AI bilan ishlovchi test tizimi
-
----
-
-## 💻 Coding vibe
+<!-- NAME & TITLE -->
+<h1 align="center">Soatmurod Xurramov</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Inter
+    &size=20
+    &pause=1200
+    &color=CBD5E1
+    &center=true
+    &vCenter=true
+    &width=420
+    &lines=I'm+building+features"
+  />
+</p>
+
+<br/>
+
+<!-- SHORT STATEMENT -->
+<p align="center">
+  I focus on building scalable, clean, and production-ready software solutions.<br/>
+  My work blends engineering precision with real-world problem solving.
 </p>
 
 ---
 
-## 📊 GitHub Statistikam
+## Focus Areas
+
+- Mobile application architecture  
+- Feature-driven development  
+- AI-assisted systems  
+- Fintech & EdTech platforms  
+- Clean code & maintainability  
+
+---
+
+## Technology Stack
+
+- Flutter / Dart  
+- Kotlin (Android)  
+- PHP / MySQL  
+- REST APIs  
+- OpenAI integrations  
+- UI systems for real products  
+
+---
+
+## Development Philosophy
+
+> Build features that matter.  
+> Ship clean code.  
+> Optimize for users, not trends.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meducae&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meducae&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meducae&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meducae&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## 🐍 Contribution animatsiya
+## Contribution Flow
 
 <p align="center">
-  <img src="https://github.com/meducae/meducae/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/USERNAME/meducae/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📬 Bog‘lanish
-
-- 📧 Email: soatmurod@example.com  
-- 💬 Telegram: @username  
-- 🌐 Portfolio: coming soon...
-
----
-
-<p align="center">
-  🚀 <b>Har kuni yangi bilim, har kuni yangi commit!</b>
-</p>
-
-<!-- ===================== -->
-<!--  FOOTER               -->
-<!-- ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer"/>
+<!-- FOOTER -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=120&section=footer"
+/>
