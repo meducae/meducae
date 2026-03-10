@@ -50,7 +50,7 @@
 <!-- GITHUB STATS (PROFESSIONAL, CLEAN, NO STREAKS) -->
 <!-- GITHUB STATS (CLEAN & WORKING) -->
 <p align="center">
-  <img
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=meducae&show_icons=true&hide_border=true&bg_color=020617&title_color=E5E7EB&icon_color=6366F1&text_color=94A3B8"
     width="60%"
   />
