@@ -79,7 +79,7 @@
 ## Contribution Flow
 
 <p align="center">
-  <img src="https://github.com/USERNAME/meducae/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/meducae/meducae/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
