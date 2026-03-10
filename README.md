@@ -49,8 +49,8 @@
 
 <!-- SAAS METRICS · PREMIUM CARDS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=E5E7EB&icon_color=6366F1&text_color=94A3B8" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=020617&ring=6366F1&fire=6366F1&currStreakLabel=E5E7EB&sideLabels=94A3B8&currStreakNum=E5E7EB&sideNums=94A3B8" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meducae&show_icons=true&hide_border=true&bg_color=020617&title_color=E5E7EB&icon_color=6366F1&text_color=94A3B8" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=meducae&hide_border=true&background=020617&ring=6366F1&fire=6366F1&currStreakLabel=E5E7EB&sideLabels=94A3B8&currStreakNum=E5E7EB&sideNums=94A3B8" width="47%"/>
 </p>
 
 <br/>
