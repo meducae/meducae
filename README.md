@@ -1,77 +1,72 @@
-<!-- ========================= -->
-<!--  PROFESSIONAL ANIMATED   -->
-<!--  GITHUB PROFILE README   -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--        PREMIUM · ELITE · ANIMATED GITHUB PROFILE      -->
+<!-- ===================================================== -->
 
-<!-- TOP ANIMATED BANNER -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=180&section=header&animation=fadeIn"
-/>
-
-<!-- NAME & TITLE -->
-<h1 align="center">Soatmurod Xurramov</h1>
+<!-- ADVANCED MULTI-LAYER ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:020617,100:0F172A&height=230&section=header&animation=fadeIn&customColorList=0,2,2,2" />
+</p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Inter
-    &size=20
-    &pause=1200
-    &color=CBD5E1
-    &center=true
-    &vCenter=true
-    &width=420
-    &lines=I'm+building+features"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=28&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Soatmurod+Xurramov" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=18&pause=1800&color=64748B&center=true&vCenter=true&width=520&lines=I'm+building+features" />
 </p>
 
 <br/>
 
-<!-- SHORT STATEMENT -->
+<!-- PARTICLE / MOTION ILLUSION -->
 <p align="center">
-  I focus on building scalable, clean, and production-ready software solutions.<br/>
-  My work blends engineering precision with real-world problem solving.
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## Focus Areas
+## Overview
 
-- Mobile application architecture  
-- Feature-driven development  
-- AI-assisted systems  
-- Fintech & EdTech platforms  
-- Clean code & maintainability  
+I build **production-grade features** with a strong focus on architecture, scalability, and long-term maintainability.  
+My work prioritizes **clarity, performance, and real-world impact**.
 
 ---
 
-## Technology Stack
+## Core Focus
+
+- Feature-driven product development  
+- Mobile-first architectures  
+- AI-powered systems  
+- Fintech & high-scale platforms  
+- Clean, auditable codebases  
+
+---
+
+## Technology
 
 - Flutter / Dart  
 - Kotlin (Android)  
 - PHP / MySQL  
-- REST APIs  
-- OpenAI integrations  
-- UI systems for real products  
+- RESTful APIs  
+- OpenAI-based integrations  
 
 ---
 
-## Development Philosophy
+## Engineering Principles
 
-> Build features that matter.  
-> Ship clean code.  
-> Optimize for users, not trends.
+> Ship less. Build better.  
+> Features over hype.  
+> Systems over shortcuts.
 
 ---
 
-## GitHub Activity
+## Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meducae&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meducae&show_icons=true&hide_border=true&bg_color=00000000&text_color=CBD5E1&icon_color=64748B&title_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meducae&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meducae&layout=compact&hide_border=true&bg_color=00000000&text_color=94A3B8&title_color=E5E7EB" />
 </p>
 
 ---
@@ -84,7 +79,7 @@
 
 ---
 
-<!-- FOOTER -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=120&section=footer"
-/>
+<!-- FOOTER · DEPTH EFFECT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:020617&height=140&section=footer" />
+</p>
