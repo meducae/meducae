@@ -7,15 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Architect;System+Designer;Problem+Solver" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Odam;Android+Developer;Problem+Solver" alt="Typing" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/soatm">
-    <img src="https://img.shields.io/badge/FocusForge-Project-38BDF8?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Clean_Architecture-Expert-white?style=for-the-badge&logo=clean-code&logoColor=black" />
-</div>
+
 
 <br/>
 
