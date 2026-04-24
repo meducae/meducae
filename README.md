@@ -1,62 +1,60 @@
 <!-- ===================================================== -->
-<!--        MEDUCAE · PREMIUM · PROFESSIONAL GITHUB        -->
+<!--      PREMIUM PROFESSIONAL PROFILE · SOATMUROD         -->
 <!-- ===================================================== -->
 
-<!-- HERO BANNER · PREMIUM GRADIENT -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:020617,25:0F172A,50:020617,75:1E293B,100:020617"
-    alt="Premium Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Soatmurod%20Xurramov&fontSize=50&animation=fadeIn&fontAlignY=35&color=0:020617,25:0F172A,50:1E293B,100:020617&fontColor=F8FAFC" alt="Header" />
 </p>
 
-<!-- NAME · SIGNATURE PRESENCE -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&pause=2500&color=F8FAFC&center=true&vCenter=true&width=1000&lines=Soatmurod+Xurramov"
-    alt="Name Typing"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Architect;System+Designer;Problem+Solver" alt="Typing" />
 </p>
 
-<!-- TAGLINE · PROFESSIONAL / MINIMAL -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=19&pause=1800&color=94A3B8&center=true&vCenter=true&width=720&lines=Building+production-grade+features;Focused+on+architecture+and+scalability"
-    alt="Role Typing"
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/soatm">
+    <img src="https://img.shields.io/badge/FocusForge-Project-38BDF8?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Clean_Architecture-Expert-white?style=for-the-badge&logo=clean-code&logoColor=black" />
+</div>
 
 <br/>
 
-<!-- GITHUB STATS (CLEAN & WORKING) -->
+## 🪐 About Me
+I am a software engineer focused on building **high-performance, production-ready systems**. My philosophy revolves around **scalability, clean architecture, and user-centric design**.
 
+- 🔭 **Current Focus:** Advanced AI integrations and KMP (Kotlin Multiplatform).
+- 🛠 **System Design:** Passionate about SOLID principles and modular architectures.
+- ⚡ **Performance:** Obsessed with sub-second response times and memory optimization.
 
-<br/>
+---
 
-<!-- TECH STACK ICONS -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,php,mysql,git,linux,ai,python&theme=dark" alt="Tech Stack"/>
+## 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,python,fastapi,php,mysql,docker,git,linux,aws&theme=dark" alt="Skills" />
 </p>
 
 ---
 
-## 💼 About Me
+## 📊 Performance Metrics
 
-I design and build **real-world, production-grade systems** with a deep focus on:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soatm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soatm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+</p>
 
-- **Architecture & scalability**  
-- **Clean code & maintainability**  
-- **Performance under real load**  
-- **Impactful, high-quality projects**  
-
-I focus on **clarity, professional design, and long-term maintainability**.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soatm&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="100%" />
+</p>
 
 ---
 
-<!-- FOOTER · PREMIUM CLEAN -->
+## 📫 Let's Connect
+<p align="left">
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,100:0F172A"
-    alt="Footer Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,100:0F172A" alt="Footer" />
 </p>
