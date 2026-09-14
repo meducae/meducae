@@ -1,7 +1,7 @@
 <!-- Profile: meducae/meducae | Keep the assets folder beside this file. -->
 
 <p align="center">
-  <img src="./assets/dev-lab.gif" width="1200" alt="Soatmurod Xurramov — software engineer. Animated development workspace with x86-64 Assembly, hexadecimal characters and a conceptual neural network." />
+  <img src="./assets/retro-terminal.gif" width="1200" alt="Soatmurod Xurramov — software engineer. An animated monochrome retro terminal with pixel mosaic graphics, Assembly code, binary and hexadecimal numbers, and a synthetic graph." />
 </p>
 
 <p align="center">
@@ -12,22 +12,23 @@
   <a href="https://www.linkedin.com/in/soatmurod-xurramov-7ba9b03a4/"><img src="./assets/linkedin.svg" height="36" alt="Connect on LinkedIn" /></a>
 </p>
 
-### `01 / whoami`
+### `$ whoami`
 
 I'm **Soatmurod Xurramov**, a software engineer working across Android, cross-platform applications and backend systems. I care about clear architecture, efficient code and the details that make software reliable.
 
 ```yaml
-current_focus:
-  - AI integrations & machine learning
+focus:
+  - AI integrations
+  - Machine learning
   - Kotlin Multiplatform
 exploring:
-  - Assembly & how software meets the machine
-engineering:
-  - SOLID principles & modular architecture
-  - Response time & memory efficiency
+  - Assembly & computer systems
+principles:
+  - SOLID & modular architecture
+  - Fast responses & low memory use
 ```
 
-### `02 / stack`
+### `$ ls ~/stack`
 
 | Workspace | Technologies |
 | :--- | :--- |
@@ -36,12 +37,12 @@ engineering:
 | **Data & infrastructure** | MySQL · Docker · Linux · AWS |
 | **Version control** | Git · GitHub |
 
-### `03 / learning lab`
+### `$ cat ~/lab/model.py`
 
 From CPU instructions to model inference — I like understanding what happens beneath the abstraction.
 
 ```python
-# lab/model.py · a small neural layer, written explicitly
+# lab/model.py · affine + ReLU
 import numpy as np
 
 def forward(x, weights, bias):
@@ -50,7 +51,7 @@ def forward(x, weights, bias):
 ```
 
 <details>
-<summary><strong>Open workspace.asm</strong> — the program in the banner</summary>
+<summary><strong>Open boot.asm</strong> — the program in the banner</summary>
 
 ```asm
 ; Linux x86-64 · NASM syntax
@@ -73,11 +74,15 @@ _start:
     syscall
 ```
 
-The banner's signal flow and hexadecimal characters are a visual study of computation.
+The banner's mosaic, memory addresses and signal graphics are a visual study of computation.
 
 </details>
 
-### `04 / engineering notes`
+### `$ make build`
+
+<p align="center">
+  <img src="./assets/build-loop.gif" width="1200" alt="Black-and-white build animation: terminal stages advance through dependency resolution, compilation, linking and packaging as a wireframe structure assembles. Visual demonstration." />
+</p>
 
 - **Architecture:** clear boundaries, focused modules and explicit dependencies.
 - **Performance:** measure response time, memory use and the cost of abstractions.

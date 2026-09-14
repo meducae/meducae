@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="36" viewBox="0 0 154 36" role="img" aria-label="REPOSITORIES">
+  <rect x=".5" y=".5" width="153" height="35" rx="0" fill="#0b0b0b" stroke="#444444"/>
+  <path d="M14 13l5 5-5 5m10 0h7" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="42" y="23" fill="#f2f2f2" font-family="monospace" font-size="12">REPOSITORIES</text>
+</svg>
